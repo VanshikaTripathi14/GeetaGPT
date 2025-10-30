@@ -128,8 +128,8 @@ npx cap sync android && npx cap open android
 
 If you'd like to connect, collaborate, or have any questions:
 
-- 📧 Email: [himanshu2005agrawal@gmail.com](mailto:himanshu2005agrawal@gmail.com)  
-- 💼 LinkedIn: [Himanshu Agrawal](https://www.linkedin.com/in/himanshu-agrawal-92201724b/)
+- 📧 Email: [vanshika.tripathi2001@gmail.com](mailto:vanshika.tripathi2001@gmail.com)  
+- 💼 LinkedIn: [Vanshika Tripathi](www.linkedin.com/in/vanshika-tripathi-14bb42245)
 
 _I'm always open to meaningful conversations and new opportunities._ 🚀
 
