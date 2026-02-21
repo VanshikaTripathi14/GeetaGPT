@@ -26,7 +26,7 @@
 
 ## 🎯 What is Geeta GPT?
 
-A **production-grade mobile application** that combines ancient wisdom with modern AI technology. Users get personalized spiritual guidance through Bhagavad Gita teachings, powered by Groq API(Llama 3.3 70B).
+A **production-grade mobile application** that combines ancient wisdom with modern AI technology. Users get personalized spiritual guidance through Bhagavad Gita teachings, powered by Groq API(Llama 3.3 70b).
 
 **Problem Solved:** Making timeless spiritual wisdom accessible through intelligent, contextual conversations in multiple languages.
 
