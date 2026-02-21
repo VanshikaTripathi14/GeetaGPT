@@ -26,7 +26,7 @@
 
 ## 🎯 What is Geeta GPT?
 
-A **production-grade mobile application** that combines ancient wisdom with modern AI technology. Users get personalized spiritual guidance through Bhagavad Gita teachings, powered by Google's Gemini AI.
+A **production-grade mobile application** that combines ancient wisdom with modern AI technology. Users get personalized spiritual guidance through Bhagavad Gita teachings, powered by Groq API(Llama 3.3 70B).
 
 **Problem Solved:** Making timeless spiritual wisdom accessible through intelligent, contextual conversations in multiple languages.
 
@@ -35,7 +35,7 @@ A **production-grade mobile application** that combines ancient wisdom with mode
 ## ✨ Key Features
 
 - **Smart Authentication** - OTP verification + JWT security
-- **AI-Powered Chat** - Gemini API integration for intelligent responses  
+- **AI-Powered Chat** - Groq API integration for intelligent responses  
 - **Voice Input** - Natural speech-to-text interaction
 - **Push Notifications** - Automated daily wisdom delivery
 - **Multi-language** - Hindi, English, Sanskrit support
@@ -48,7 +48,7 @@ A **production-grade mobile application** that combines ancient wisdom with mode
 
 **Frontend:** React Native + Capacitor + TypeScript  
 **Backend:** Node.js + Express + MongoDB  
-**AI:** Google Gemini API  
+**AI:** Groq API (Llama 3.3 70B)  
 **Auth:** JWT + OTP System  
 **Notifications:** Firebase Cloud Messaging  
 **Deployment:** Render + Android Studio  
@@ -111,7 +111,7 @@ npx cap sync android && npx cap open android
 ## 🏆 Technical Achievements
 
 - **End-to-End Development** - Concept to production
-- **AI Integration** - Custom Gemini API implementation
+- **AI Integration** - Custom Groq API implementation
 - **Mobile Development** - Cross-platform React Native
 - **Backend Architecture** - Scalable Node.js API
 - **DevOps** - Automated deployment pipeline
