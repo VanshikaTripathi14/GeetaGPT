@@ -130,6 +130,6 @@ npx cap sync android && npx cap open android
 If you'd like to connect, collaborate, or have any questions:
 
 - 📧 Email: [vanshika.tripathi2001@gmail.com](mailto:vanshika.tripathi2001@gmail.com)  
-- 💼 LinkedIn: [Vanshika Tripathi](www.linkedin.com/in/vanshika-tripathi-14bb42245)
+- 💼 LinkedIn: [Vanshika Tripathi](https://www.linkedin.com/in/vanshika-tripathi-14bb42245/)
 
 I'm always open to meaningful conversations and new opportunities. 🚀
