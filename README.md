@@ -96,7 +96,7 @@ A *production-grade mobile application* that combines ancient wisdom with modern
 
 ## 🛠️ Quick Setup
 
-bash
+```bash
 # Backend
 cd backend && npm install && npm start
 
@@ -105,6 +105,7 @@ cd frontend && npm install && npm run dev
 
 # Build APK
 npx cap sync android && npx cap open android
+```
 
 
 ---
